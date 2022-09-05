@@ -8,10 +8,6 @@
 
 - 📫 How to reach me **wahyumarrpl@gmail.com**
 
-[![Contributors Display](https://badges.pufler.dev/contributors/puf17640/git-badges?size=50&padding=5&bots=true)]
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wahyumar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wahyumar11" height="30" width="40" /></a>
