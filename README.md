@@ -1,8 +1,10 @@
-<h3 align="center">Hi, I am Rian or you can call me Wahyu. I am a backend developoer from Indonesia</h3>
+<h3 align="center">Hi, I am **Rian** or you can call me **Wahyu**. I am a **Backend Developor** from Indonesia</h3>
 
 - 🔭 I’m currently working on **PT Basic Technology**
 
 - 🌱 I’m currently learning **Laravel and Java for android studio**
+
+- 👩‍🎓  I’m currently studying on **Universitas Terbuka** 
 
 - 📫 How to reach me **wahyumarrpl@gmail.com**
 
