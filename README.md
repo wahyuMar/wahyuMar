@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I am **Rian** or you can call me **Wahyu**. I am a **Backend Developor** from Indonesia</h3>
+<h3 align="center">Hi, I am <u>Rian</u> or you can call me <u>Wahyu</u>. I am a <u>Backend Developor</u> from Indonesia</h3>
 
 - 🔭 I’m currently working on **PT Basic Technology**
 
