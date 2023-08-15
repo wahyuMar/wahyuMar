@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I am <u>Rian</u> or you can call me <u>Wahyu</u>. I am a <u>Backend Developor</u> from Indonesia</h3>
 
-- 🔭 I’m currently working on **PT Basic Technology**
+- 🔭 I’m currently working on **PT DATANODE NARALOGI SIBERKARYA AS PROJECT MANAGER**
 
 - 🌱 I’m currently learning **Laravel and Java for android studio**
 
